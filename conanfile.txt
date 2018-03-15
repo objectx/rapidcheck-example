@@ -1,0 +1,5 @@
+[requires]
+rapidcheck/1.0.0@objectx/testing
+
+[generators]
+cmake
